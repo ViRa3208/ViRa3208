@@ -15,7 +15,7 @@
 <li>Навигация по странице сайта
 <ul>
 <li><a href="https://ria.ru/" title="Заглавная страница">Заглавная страница</a></li>
-<li><a href="https://ria.ru/politics/"title="Политика" >Политика</a></li>
+<li><a href="https://ria.ru/politics/" title="Политика" >Политика</a></li>
 <li><a href="https://ria.ru/world/" title="В мире">В мире</a></li>
 <li><a href="https://ria.ru/economy/" title="Экономика">Экономика</a></li>
 <li><a href="https://ria.ru/society/" title="Форум">Форум</a></li>
