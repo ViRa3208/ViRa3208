@@ -35,7 +35,7 @@
 <area shape="rect" coords="118, 246, 113, 267" href="https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB">
 <area shape="circle" coords="113, 130, 160" href="https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0">
 </map></li>
-<li> Прохоровская трагедия советских <p>  <a href="https://topwar.ru/144253-prohorovskaya-tragediya-sovetskih-tankistov.html">танкистов </p> </li>
+<li><p>  Прохоровская трагедия советских <a href="https://topwar.ru/144253-prohorovskaya-tragediya-sovetskih-tankistov.html">танкистов </p></li>
 <li><a href="https://htmlacademy.ru/blog/frontend/html/index.html">в текущем каталоге</a></li>
 <li><a href=".../about/text.html">в каталоге about</a></li>
 <li><a href=".../text.html">в каталоге на 1 уровень выше</a></li>
