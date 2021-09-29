@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="ru">
 <head>
 <tittle> Лабораторная №1 </tittle> <br>
