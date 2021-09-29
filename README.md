@@ -10,7 +10,7 @@
 <li><a href="ftp://laba.com/text.zip">  ссылка на файл на сервере FTP без авторизации</a>
 <li><a href="ftp://lg:pr@laba.com/text.zip"> ссылка на файл на сервере FTP c авторизацией </a>
 <li><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D0%BD%D1%84%D0%BB%D0%B8%D0%BA%D1%82"> ссылка на фрагмент страницы некоторого сайта </a>
-<li><a href="#top"> -Наверх- ссылка на фрагмент текущей страницы</a></li>
+<li><a href="#top"> ссылка на фрагмент текущей страницы</a></li>
 <li> <a href="https://www.yandex.ru/search?a=youtube&b=youtube">ссылка с двумя параметрами в URL</a> </li>
 <li>Навигация по странице сайта
 <ul>
@@ -36,8 +36,6 @@
 <area shape="rect" coords="118, 246, 113, 267" href="https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB">
 <area shape="circle" coords="113, 130, 160" href="https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0">
 </map></li>
-</map>
-
 <li> <p>Прохоровская трагедия советских  <a href="https://topwar.ru/144253-prohorovskaya-tragediya-sovetskih-tankistov.html">танкистов</p> </li>
 <li><a href="https://htmlacademy.ru/blog/frontend/html/index.html">в текущем каталоге</a></li>
 <li><a href=".../about/text.html">в каталоге about</a></li>
